@@ -9,7 +9,7 @@ This program uses the stack data structure to check for syntax errors in a sourc
 Run the source file with Python and pass the input source file in-line.
 
 ```bash
-python3 balancingSymbols.py (HelloWord.java/HelloWorld_wrong.java)
+python3 balancingSymbols.py (HelloWorld.java/HelloWorld_wrong.java)
 ```
 
 ## Sample Output
