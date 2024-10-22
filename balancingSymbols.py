@@ -39,7 +39,7 @@ def checkBalance(filename):
 if __name__ == "__main__":
     # Check if the script has been provided with a file argument
     if len(sys.argv) != 2:
-        print("Usage: python script.py <source_file>")
+        print("Usage: python3 balancingSymbols.py <source_file>")
     else:
         # Get the file name from the command-line argument
         filename = sys.argv[1]
